@@ -1,5 +1,6 @@
 # Cek Nik KTP
-Data yang dihasilkan merupakan hasil pencarian dari website KPU.GO.ID
+Data yang dihasilkan merupakan hasil pencarian dari website KPU.GO.ID.
+
 Usage
 ---------
 
