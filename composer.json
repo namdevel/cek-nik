@@ -1,0 +1,19 @@
+{
+    "name": "namdevel/cek-nik",
+    "description": "Cek Nik KTP Indonesia",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ANAMPEDIA",
+            "email": "namdevel@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload": {
+        "files":[
+          "nik.class.php"
+        ]
+    }
+}
